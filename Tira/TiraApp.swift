@@ -1,8 +1,8 @@
 //
 //  TiraApp.swift
-//  tira
+//  Tira
 //
-//  Created by Corey Taylor on 11/09/2023.
+//  Created by Corey Taylor on 12/09/2023.
 //
 
 import SwiftUI

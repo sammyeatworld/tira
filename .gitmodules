@@ -1,0 +1,15 @@
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/capstone-engine/capstone
+[submodule "keystone"]
+	path = keystone
+	url = https://github.com/keystonejs/keystone
+[submodule "HexFiend"]
+	path = HexFiend
+	url = https://github.com/HexFiend/HexFiend
+[submodule "Sparkle"]
+	path = Sparkle
+	url = https://github.com/sparkle-project/Sparkle
+[submodule "MachO-Kit"]
+	path = MachO-Kit
+	url = https://github.com/DeVaukz/MachO-Kit

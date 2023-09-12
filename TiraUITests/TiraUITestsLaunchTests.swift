@@ -1,13 +1,13 @@
 //
-//  tiraUITestsLaunchTests.swift
-//  tiraUITests
+//  TiraUITestsLaunchTests.swift
+//  TiraUITests
 //
-//  Created by Corey Taylor on 11/09/2023.
+//  Created by Corey Taylor on 12/09/2023.
 //
 
 import XCTest
 
-final class tiraUITestsLaunchTests: XCTestCase {
+final class TiraUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

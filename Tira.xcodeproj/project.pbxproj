@@ -7,64 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		049E1E062AAF64DE00A9EF69 /* TiraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E052AAF64DE00A9EF69 /* TiraApp.swift */; };
-		049E1E082AAF64DE00A9EF69 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E072AAF64DE00A9EF69 /* ContentView.swift */; };
-		049E1E0A2AAF64DE00A9EF69 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E092AAF64DE00A9EF69 /* Item.swift */; };
-		049E1E0C2AAF64DF00A9EF69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049E1E0B2AAF64DF00A9EF69 /* Assets.xcassets */; };
-		049E1E0F2AAF64DF00A9EF69 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049E1E0E2AAF64DF00A9EF69 /* Preview Assets.xcassets */; };
-		049E1E1A2AAF64DF00A9EF69 /* tiraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E192AAF64DF00A9EF69 /* tiraTests.swift */; };
-		049E1E242AAF64DF00A9EF69 /* tiraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E232AAF64DF00A9EF69 /* tiraUITests.swift */; };
-		049E1E262AAF64DF00A9EF69 /* tiraUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E252AAF64DF00A9EF69 /* tiraUITestsLaunchTests.swift */; };
+		049E1E3F2AB060A900A9EF69 /* TiraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E3E2AB060A900A9EF69 /* TiraApp.swift */; };
+		049E1E412AB060A900A9EF69 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E402AB060A900A9EF69 /* ContentView.swift */; };
+		049E1E432AB060A900A9EF69 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E422AB060A900A9EF69 /* Item.swift */; };
+		049E1E452AB060AA00A9EF69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049E1E442AB060AA00A9EF69 /* Assets.xcassets */; };
+		049E1E482AB060AA00A9EF69 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049E1E472AB060AA00A9EF69 /* Preview Assets.xcassets */; };
+		049E1E532AB060AA00A9EF69 /* TiraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E522AB060AA00A9EF69 /* TiraTests.swift */; };
+		049E1E5D2AB060AA00A9EF69 /* TiraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E5C2AB060AA00A9EF69 /* TiraUITests.swift */; };
+		049E1E5F2AB060AA00A9EF69 /* TiraUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049E1E5E2AB060AA00A9EF69 /* TiraUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		049E1E162AAF64DF00A9EF69 /* PBXContainerItemProxy */ = {
+		049E1E4F2AB060AA00A9EF69 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 049E1DFA2AAF64DE00A9EF69 /* Project object */;
+			containerPortal = 049E1E332AB060A900A9EF69 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 049E1E012AAF64DE00A9EF69;
-			remoteInfo = tira;
+			remoteGlobalIDString = 049E1E3A2AB060A900A9EF69;
+			remoteInfo = Tira;
 		};
-		049E1E202AAF64DF00A9EF69 /* PBXContainerItemProxy */ = {
+		049E1E592AB060AA00A9EF69 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 049E1DFA2AAF64DE00A9EF69 /* Project object */;
+			containerPortal = 049E1E332AB060A900A9EF69 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 049E1E012AAF64DE00A9EF69;
-			remoteInfo = tira;
+			remoteGlobalIDString = 049E1E3A2AB060A900A9EF69;
+			remoteInfo = Tira;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		049E1E022AAF64DE00A9EF69 /* tira.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tira.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		049E1E052AAF64DE00A9EF69 /* TiraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiraApp.swift; sourceTree = "<group>"; };
-		049E1E072AAF64DE00A9EF69 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		049E1E092AAF64DE00A9EF69 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
-		049E1E0B2AAF64DF00A9EF69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		049E1E0E2AAF64DF00A9EF69 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		049E1E102AAF64DF00A9EF69 /* tira.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = tira.entitlements; sourceTree = "<group>"; };
-		049E1E152AAF64DF00A9EF69 /* tiraTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tiraTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		049E1E192AAF64DF00A9EF69 /* tiraTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tiraTests.swift; sourceTree = "<group>"; };
-		049E1E1F2AAF64DF00A9EF69 /* tiraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tiraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		049E1E232AAF64DF00A9EF69 /* tiraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tiraUITests.swift; sourceTree = "<group>"; };
-		049E1E252AAF64DF00A9EF69 /* tiraUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tiraUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		049E1E3B2AB060A900A9EF69 /* Tira.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tira.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		049E1E3E2AB060A900A9EF69 /* TiraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiraApp.swift; sourceTree = "<group>"; };
+		049E1E402AB060A900A9EF69 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		049E1E422AB060A900A9EF69 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		049E1E442AB060AA00A9EF69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		049E1E472AB060AA00A9EF69 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		049E1E492AB060AA00A9EF69 /* Tira.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Tira.entitlements; sourceTree = "<group>"; };
+		049E1E4E2AB060AA00A9EF69 /* TiraTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TiraTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		049E1E522AB060AA00A9EF69 /* TiraTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiraTests.swift; sourceTree = "<group>"; };
+		049E1E582AB060AA00A9EF69 /* TiraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TiraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		049E1E5C2AB060AA00A9EF69 /* TiraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiraUITests.swift; sourceTree = "<group>"; };
+		049E1E5E2AB060AA00A9EF69 /* TiraUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiraUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		049E1DFF2AAF64DE00A9EF69 /* Frameworks */ = {
+		049E1E382AB060A900A9EF69 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		049E1E122AAF64DF00A9EF69 /* Frameworks */ = {
+		049E1E4B2AB060AA00A9EF69 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		049E1E1C2AAF64DF00A9EF69 /* Frameworks */ = {
+		049E1E552AB060AA00A9EF69 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,144 +74,144 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		049E1DF92AAF64DE00A9EF69 = {
+		049E1E322AB060A900A9EF69 = {
 			isa = PBXGroup;
 			children = (
-				049E1E042AAF64DE00A9EF69 /* tira */,
-				049E1E182AAF64DF00A9EF69 /* tiraTests */,
-				049E1E222AAF64DF00A9EF69 /* tiraUITests */,
-				049E1E032AAF64DE00A9EF69 /* Products */,
+				049E1E3D2AB060A900A9EF69 /* Tira */,
+				049E1E512AB060AA00A9EF69 /* TiraTests */,
+				049E1E5B2AB060AA00A9EF69 /* TiraUITests */,
+				049E1E3C2AB060A900A9EF69 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		049E1E032AAF64DE00A9EF69 /* Products */ = {
+		049E1E3C2AB060A900A9EF69 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				049E1E022AAF64DE00A9EF69 /* tira.app */,
-				049E1E152AAF64DF00A9EF69 /* tiraTests.xctest */,
-				049E1E1F2AAF64DF00A9EF69 /* tiraUITests.xctest */,
+				049E1E3B2AB060A900A9EF69 /* Tira.app */,
+				049E1E4E2AB060AA00A9EF69 /* TiraTests.xctest */,
+				049E1E582AB060AA00A9EF69 /* TiraUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		049E1E042AAF64DE00A9EF69 /* tira */ = {
+		049E1E3D2AB060A900A9EF69 /* Tira */ = {
 			isa = PBXGroup;
 			children = (
-				049E1E052AAF64DE00A9EF69 /* TiraApp.swift */,
-				049E1E072AAF64DE00A9EF69 /* ContentView.swift */,
-				049E1E092AAF64DE00A9EF69 /* Item.swift */,
-				049E1E0B2AAF64DF00A9EF69 /* Assets.xcassets */,
-				049E1E102AAF64DF00A9EF69 /* tira.entitlements */,
-				049E1E0D2AAF64DF00A9EF69 /* Preview Content */,
+				049E1E3E2AB060A900A9EF69 /* TiraApp.swift */,
+				049E1E402AB060A900A9EF69 /* ContentView.swift */,
+				049E1E422AB060A900A9EF69 /* Item.swift */,
+				049E1E442AB060AA00A9EF69 /* Assets.xcassets */,
+				049E1E492AB060AA00A9EF69 /* Tira.entitlements */,
+				049E1E462AB060AA00A9EF69 /* Preview Content */,
 			);
-			path = tira;
+			path = Tira;
 			sourceTree = "<group>";
 		};
-		049E1E0D2AAF64DF00A9EF69 /* Preview Content */ = {
+		049E1E462AB060AA00A9EF69 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				049E1E0E2AAF64DF00A9EF69 /* Preview Assets.xcassets */,
+				049E1E472AB060AA00A9EF69 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		049E1E182AAF64DF00A9EF69 /* tiraTests */ = {
+		049E1E512AB060AA00A9EF69 /* TiraTests */ = {
 			isa = PBXGroup;
 			children = (
-				049E1E192AAF64DF00A9EF69 /* tiraTests.swift */,
+				049E1E522AB060AA00A9EF69 /* TiraTests.swift */,
 			);
-			path = tiraTests;
+			path = TiraTests;
 			sourceTree = "<group>";
 		};
-		049E1E222AAF64DF00A9EF69 /* tiraUITests */ = {
+		049E1E5B2AB060AA00A9EF69 /* TiraUITests */ = {
 			isa = PBXGroup;
 			children = (
-				049E1E232AAF64DF00A9EF69 /* tiraUITests.swift */,
-				049E1E252AAF64DF00A9EF69 /* tiraUITestsLaunchTests.swift */,
+				049E1E5C2AB060AA00A9EF69 /* TiraUITests.swift */,
+				049E1E5E2AB060AA00A9EF69 /* TiraUITestsLaunchTests.swift */,
 			);
-			path = tiraUITests;
+			path = TiraUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		049E1E012AAF64DE00A9EF69 /* tira */ = {
+		049E1E3A2AB060A900A9EF69 /* Tira */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 049E1E292AAF64DF00A9EF69 /* Build configuration list for PBXNativeTarget "tira" */;
+			buildConfigurationList = 049E1E622AB060AA00A9EF69 /* Build configuration list for PBXNativeTarget "Tira" */;
 			buildPhases = (
-				049E1DFE2AAF64DE00A9EF69 /* Sources */,
-				049E1DFF2AAF64DE00A9EF69 /* Frameworks */,
-				049E1E002AAF64DE00A9EF69 /* Resources */,
+				049E1E372AB060A900A9EF69 /* Sources */,
+				049E1E382AB060A900A9EF69 /* Frameworks */,
+				049E1E392AB060A900A9EF69 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = tira;
-			productName = tira;
-			productReference = 049E1E022AAF64DE00A9EF69 /* tira.app */;
+			name = Tira;
+			productName = Tira;
+			productReference = 049E1E3B2AB060A900A9EF69 /* Tira.app */;
 			productType = "com.apple.product-type.application";
 		};
-		049E1E142AAF64DF00A9EF69 /* tiraTests */ = {
+		049E1E4D2AB060AA00A9EF69 /* TiraTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 049E1E2C2AAF64DF00A9EF69 /* Build configuration list for PBXNativeTarget "tiraTests" */;
+			buildConfigurationList = 049E1E652AB060AA00A9EF69 /* Build configuration list for PBXNativeTarget "TiraTests" */;
 			buildPhases = (
-				049E1E112AAF64DF00A9EF69 /* Sources */,
-				049E1E122AAF64DF00A9EF69 /* Frameworks */,
-				049E1E132AAF64DF00A9EF69 /* Resources */,
+				049E1E4A2AB060AA00A9EF69 /* Sources */,
+				049E1E4B2AB060AA00A9EF69 /* Frameworks */,
+				049E1E4C2AB060AA00A9EF69 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				049E1E172AAF64DF00A9EF69 /* PBXTargetDependency */,
+				049E1E502AB060AA00A9EF69 /* PBXTargetDependency */,
 			);
-			name = tiraTests;
-			productName = tiraTests;
-			productReference = 049E1E152AAF64DF00A9EF69 /* tiraTests.xctest */;
+			name = TiraTests;
+			productName = TiraTests;
+			productReference = 049E1E4E2AB060AA00A9EF69 /* TiraTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		049E1E1E2AAF64DF00A9EF69 /* tiraUITests */ = {
+		049E1E572AB060AA00A9EF69 /* TiraUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 049E1E2F2AAF64DF00A9EF69 /* Build configuration list for PBXNativeTarget "tiraUITests" */;
+			buildConfigurationList = 049E1E682AB060AA00A9EF69 /* Build configuration list for PBXNativeTarget "TiraUITests" */;
 			buildPhases = (
-				049E1E1B2AAF64DF00A9EF69 /* Sources */,
-				049E1E1C2AAF64DF00A9EF69 /* Frameworks */,
-				049E1E1D2AAF64DF00A9EF69 /* Resources */,
+				049E1E542AB060AA00A9EF69 /* Sources */,
+				049E1E552AB060AA00A9EF69 /* Frameworks */,
+				049E1E562AB060AA00A9EF69 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				049E1E212AAF64DF00A9EF69 /* PBXTargetDependency */,
+				049E1E5A2AB060AA00A9EF69 /* PBXTargetDependency */,
 			);
-			name = tiraUITests;
-			productName = tiraUITests;
-			productReference = 049E1E1F2AAF64DF00A9EF69 /* tiraUITests.xctest */;
+			name = TiraUITests;
+			productName = TiraUITests;
+			productReference = 049E1E582AB060AA00A9EF69 /* TiraUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		049E1DFA2AAF64DE00A9EF69 /* Project object */ = {
+		049E1E332AB060A900A9EF69 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					049E1E012AAF64DE00A9EF69 = {
+					049E1E3A2AB060A900A9EF69 = {
 						CreatedOnToolsVersion = 15.0;
 					};
-					049E1E142AAF64DF00A9EF69 = {
+					049E1E4D2AB060AA00A9EF69 = {
 						CreatedOnToolsVersion = 15.0;
-						TestTargetID = 049E1E012AAF64DE00A9EF69;
+						TestTargetID = 049E1E3A2AB060A900A9EF69;
 					};
-					049E1E1E2AAF64DF00A9EF69 = {
+					049E1E572AB060AA00A9EF69 = {
 						CreatedOnToolsVersion = 15.0;
-						TestTargetID = 049E1E012AAF64DE00A9EF69;
+						TestTargetID = 049E1E3A2AB060A900A9EF69;
 					};
 				};
 			};
-			buildConfigurationList = 049E1DFD2AAF64DE00A9EF69 /* Build configuration list for PBXProject "tira" */;
+			buildConfigurationList = 049E1E362AB060A900A9EF69 /* Build configuration list for PBXProject "Tira" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,36 +219,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 049E1DF92AAF64DE00A9EF69;
-			productRefGroup = 049E1E032AAF64DE00A9EF69 /* Products */;
+			mainGroup = 049E1E322AB060A900A9EF69;
+			productRefGroup = 049E1E3C2AB060A900A9EF69 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				049E1E012AAF64DE00A9EF69 /* tira */,
-				049E1E142AAF64DF00A9EF69 /* tiraTests */,
-				049E1E1E2AAF64DF00A9EF69 /* tiraUITests */,
+				049E1E3A2AB060A900A9EF69 /* Tira */,
+				049E1E4D2AB060AA00A9EF69 /* TiraTests */,
+				049E1E572AB060AA00A9EF69 /* TiraUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		049E1E002AAF64DE00A9EF69 /* Resources */ = {
+		049E1E392AB060A900A9EF69 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				049E1E0F2AAF64DF00A9EF69 /* Preview Assets.xcassets in Resources */,
-				049E1E0C2AAF64DF00A9EF69 /* Assets.xcassets in Resources */,
+				049E1E482AB060AA00A9EF69 /* Preview Assets.xcassets in Resources */,
+				049E1E452AB060AA00A9EF69 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		049E1E132AAF64DF00A9EF69 /* Resources */ = {
+		049E1E4C2AB060AA00A9EF69 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		049E1E1D2AAF64DF00A9EF69 /* Resources */ = {
+		049E1E562AB060AA00A9EF69 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -258,50 +258,50 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		049E1DFE2AAF64DE00A9EF69 /* Sources */ = {
+		049E1E372AB060A900A9EF69 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				049E1E082AAF64DE00A9EF69 /* ContentView.swift in Sources */,
-				049E1E0A2AAF64DE00A9EF69 /* Item.swift in Sources */,
-				049E1E062AAF64DE00A9EF69 /* TiraApp.swift in Sources */,
+				049E1E412AB060A900A9EF69 /* ContentView.swift in Sources */,
+				049E1E432AB060A900A9EF69 /* Item.swift in Sources */,
+				049E1E3F2AB060A900A9EF69 /* TiraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		049E1E112AAF64DF00A9EF69 /* Sources */ = {
+		049E1E4A2AB060AA00A9EF69 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				049E1E1A2AAF64DF00A9EF69 /* tiraTests.swift in Sources */,
+				049E1E532AB060AA00A9EF69 /* TiraTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		049E1E1B2AAF64DF00A9EF69 /* Sources */ = {
+		049E1E542AB060AA00A9EF69 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				049E1E262AAF64DF00A9EF69 /* tiraUITestsLaunchTests.swift in Sources */,
-				049E1E242AAF64DF00A9EF69 /* tiraUITests.swift in Sources */,
+				049E1E5F2AB060AA00A9EF69 /* TiraUITestsLaunchTests.swift in Sources */,
+				049E1E5D2AB060AA00A9EF69 /* TiraUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		049E1E172AAF64DF00A9EF69 /* PBXTargetDependency */ = {
+		049E1E502AB060AA00A9EF69 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 049E1E012AAF64DE00A9EF69 /* tira */;
-			targetProxy = 049E1E162AAF64DF00A9EF69 /* PBXContainerItemProxy */;
+			target = 049E1E3A2AB060A900A9EF69 /* Tira */;
+			targetProxy = 049E1E4F2AB060AA00A9EF69 /* PBXContainerItemProxy */;
 		};
-		049E1E212AAF64DF00A9EF69 /* PBXTargetDependency */ = {
+		049E1E5A2AB060AA00A9EF69 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 049E1E012AAF64DE00A9EF69 /* tira */;
-			targetProxy = 049E1E202AAF64DF00A9EF69 /* PBXContainerItemProxy */;
+			target = 049E1E3A2AB060A900A9EF69 /* Tira */;
+			targetProxy = 049E1E592AB060AA00A9EF69 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		049E1E272AAF64DF00A9EF69 /* Debug */ = {
+		049E1E602AB060AA00A9EF69 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -364,7 +364,7 @@
 			};
 			name = Debug;
 		};
-		049E1E282AAF64DF00A9EF69 /* Release */ = {
+		049E1E612AB060AA00A9EF69 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -419,21 +419,20 @@
 			};
 			name = Release;
 		};
-		049E1E2A2AAF64DF00A9EF69 /* Debug */ = {
+		049E1E632AB060AA00A9EF69 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = tira/tira.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Tira/Tira.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"tira/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Tira/Preview Content\"";
 				DEVELOPMENT_TEAM = 8KAND67JY6;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -441,28 +440,27 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.tira;
+				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.Tira;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		049E1E2B2AAF64DF00A9EF69 /* Release */ = {
+		049E1E642AB060AA00A9EF69 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = tira/tira.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Tira/Tira.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"tira/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Tira/Preview Content\"";
 				DEVELOPMENT_TEAM = 8KAND67JY6;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -470,14 +468,14 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.tira;
+				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.Tira;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
-		049E1E2D2AAF64DF00A9EF69 /* Debug */ = {
+		049E1E662AB060AA00A9EF69 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -488,15 +486,15 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.tiraTests;
+				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.TiraTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tira.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/tira";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tira.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Tira";
 			};
 			name = Debug;
 		};
-		049E1E2E2AAF64DF00A9EF69 /* Release */ = {
+		049E1E672AB060AA00A9EF69 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -507,15 +505,15 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.tiraTests;
+				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.TiraTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tira.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/tira";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tira.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Tira";
 			};
 			name = Release;
 		};
-		049E1E302AAF64DF00A9EF69 /* Debug */ = {
+		049E1E692AB060AA00A9EF69 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -524,15 +522,15 @@
 				DEVELOPMENT_TEAM = 8KAND67JY6;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.tiraUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.TiraUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = tira;
+				TEST_TARGET_NAME = Tira;
 			};
 			name = Debug;
 		};
-		049E1E312AAF64DF00A9EF69 /* Release */ = {
+		049E1E6A2AB060AA00A9EF69 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -541,54 +539,54 @@
 				DEVELOPMENT_TEAM = 8KAND67JY6;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.tiraUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = us.natjam.TiraUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = tira;
+				TEST_TARGET_NAME = Tira;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		049E1DFD2AAF64DE00A9EF69 /* Build configuration list for PBXProject "tira" */ = {
+		049E1E362AB060A900A9EF69 /* Build configuration list for PBXProject "Tira" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				049E1E272AAF64DF00A9EF69 /* Debug */,
-				049E1E282AAF64DF00A9EF69 /* Release */,
+				049E1E602AB060AA00A9EF69 /* Debug */,
+				049E1E612AB060AA00A9EF69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		049E1E292AAF64DF00A9EF69 /* Build configuration list for PBXNativeTarget "tira" */ = {
+		049E1E622AB060AA00A9EF69 /* Build configuration list for PBXNativeTarget "Tira" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				049E1E2A2AAF64DF00A9EF69 /* Debug */,
-				049E1E2B2AAF64DF00A9EF69 /* Release */,
+				049E1E632AB060AA00A9EF69 /* Debug */,
+				049E1E642AB060AA00A9EF69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		049E1E2C2AAF64DF00A9EF69 /* Build configuration list for PBXNativeTarget "tiraTests" */ = {
+		049E1E652AB060AA00A9EF69 /* Build configuration list for PBXNativeTarget "TiraTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				049E1E2D2AAF64DF00A9EF69 /* Debug */,
-				049E1E2E2AAF64DF00A9EF69 /* Release */,
+				049E1E662AB060AA00A9EF69 /* Debug */,
+				049E1E672AB060AA00A9EF69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		049E1E2F2AAF64DF00A9EF69 /* Build configuration list for PBXNativeTarget "tiraUITests" */ = {
+		049E1E682AB060AA00A9EF69 /* Build configuration list for PBXNativeTarget "TiraUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				049E1E302AAF64DF00A9EF69 /* Debug */,
-				049E1E312AAF64DF00A9EF69 /* Release */,
+				049E1E692AB060AA00A9EF69 /* Debug */,
+				049E1E6A2AB060AA00A9EF69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 049E1DFA2AAF64DE00A9EF69 /* Project object */;
+	rootObject = 049E1E332AB060A900A9EF69 /* Project object */;
 }

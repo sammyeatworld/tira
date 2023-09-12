@@ -1,13 +1,13 @@
 //
-//  tiraUITests.swift
-//  tiraUITests
+//  TiraUITests.swift
+//  TiraUITests
 //
-//  Created by Corey Taylor on 11/09/2023.
+//  Created by Corey Taylor on 12/09/2023.
 //
 
 import XCTest
 
-final class tiraUITests: XCTestCase {
+final class TiraUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
